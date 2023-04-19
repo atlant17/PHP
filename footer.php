@@ -4,7 +4,7 @@
 <a href="#">Services </a>
 <a href="#">Location </a>
 <div class="Logo">
-    <img src="img/white.png">
+    <img src="img/logo.png">
 </div>
 <div class="social">
     <img src="img/facebook.png">

@@ -46,7 +46,7 @@ include_once "functions.php";
     </header>
     <main>
         <div class="top-bar">
-            <img class="main" src="img/main-photo.jpeg" >
+            <img class="main" src="img/main.jpeg" >
         </div>
         <section class="py-5">
             <div class="container px-4 px-lg-5 mt-5">
@@ -85,12 +85,12 @@ include_once "functions.php";
                     <div class="col mb-5">
                         <div class="card">
                             <!-- Product image-->
-                            <img class="card-img" src="img/sneak.png">
+                            <img class="card-img" src="img/shower.png">
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <a class="type" href="#"><h5 class="fw-bolder">SNEAKERS</h5></a>
+                                    <a class="type" href="#"><h5 class="fw-bolder">BATH</h5></a>
                                     <!-- Product price-->
                                     <p>$80.00</p>
                                 </div>
@@ -100,12 +100,12 @@ include_once "functions.php";
                     <div class="col mb-5">
                         <div class="card">
                             <!-- Product image-->
-                            <img class="card-img" src="img/t-shirt.png">
+                            <img class="card-img" src="img/fire.png">
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <a class="type" href="#"><h5 class="fw-bolder">T-SHIRTS</h5></a>
+                                    <a class="type" href="#"><h5 class="fw-bolder">AROMA</h5></a>
                                     <!-- Product price-->
                                     <p>$20.00</p>
                                 </div>
@@ -115,12 +115,12 @@ include_once "functions.php";
                     <div class="col mb-5">
                         <div class="card">
                             <!-- Product image-->
-                            <img class="card-img" src="img/hat.png">
+                            <img class="card-img" src="img/soap.png">
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <a class="type" href="#"><h5 class="fw-bolder">HATS</h5></a>
+                                    <a class="type" href="#"><h5 class="fw-bolder">FACIAL CARE</h5></a>
                                     <!-- Product price-->
                                     <p>$30.00</p>
                                 </div>
@@ -130,12 +130,12 @@ include_once "functions.php";
                     <div class="col mb-5">
                         <div class="card">
                             <!-- Product image-->
-                            <img class="card-img" src="img/butfly.png">
+                            <img class="card-img" src="img/flower.png">
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <a class="type" href="#"><h5 class="fw-bolder">DICKY-BOWS</h5></a>
+                                    <a class="type" href="#"><h5 class="fw-bolder">FLOWERS</h5></a>
                                     <!-- Product price-->
                                     <p>$15.00</p>
                                 </div>
@@ -145,12 +145,12 @@ include_once "functions.php";
                     <div class="col mb-5">
                         <div class="card">
                             <!-- Product image-->
-                            <img class="card-img" src="img/slaps.png">
+                            <img class="card-img" src="img/stone.png">
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <a class="type" href="#"><h5 class="fw-bolder">FLIP-FLOPS</h5></a>
+                                    <a class="type" href="#"><h5 class="fw-bolder">HOT STONES</h5></a>
                                     <!-- Product price-->
                                     <p>$10.00</p>
                                 </div>
@@ -160,12 +160,12 @@ include_once "functions.php";
                     <div class="col mb-5">
                         <div class="card">
                             <!-- Product image-->
-                            <img class="card-img" src="img/trousers.png">
+                            <img class="card-img" src="img/nail.png">
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <a class="type" href="#"><h5 class="fw-bolder">TROUSERS</h5></a>
+                                    <a class="type" href="#"><h5 class="fw-bolder">MANICURE</h5></a>
                                     <!-- Product price-->
                                     <p>$50.00</p>
                                 </div>
@@ -175,14 +175,14 @@ include_once "functions.php";
                     <div class="col mb-5">
                         <div class="card">
                             <!-- Product image-->
-                            <img class="card-img" src="img/socks.png">
+                            <img class="card-img" src="img/brush.png">
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <a class="type" href="#"><h5 class="fw-bolder">SOCKS</h5></a>
+                                    <a class="type" href="#"><h5 class="fw-bolder">MAKE UP</h5></a>
                                     <!-- Product price-->
-                                    <p>$5.00</p>
+                                    <p>$35.00</p>
                                 </div>
                             </div>
                         </div>
@@ -190,12 +190,12 @@ include_once "functions.php";
                     <div class="col mb-5">
                         <div class="card">
                             <!-- Product image-->
-                            <img class="card-img" src="img/sunglasses.png">
+                            <img class="card-img" src="img/aero.png">
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <a class="type" href="#"><h5 class="fw-bolder">SUNGLASSES</h5></a>
+                                    <a class="type" href="#"><h5 class="fw-bolder">HAIR STYLING</h5></a>
                                     <!-- Product price-->
                                     <p>$70.00</p>
                                 </div>
